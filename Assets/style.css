@@ -1,0 +1,25 @@
+#output {
+    width: 43.7% !important;
+}
+
+.btn {
+    border-radius: 2rem;
+    background-color: aqua;
+    text-align: center;
+    width: 70%;
+}
+
+.container {
+    width: 100%;
+    padding: 150px;
+    justify-content: center;
+} 
+
+.container-1 {
+    justify-content: center;
+} 
+
+text {
+    background-color: aliceblue;
+}
+
